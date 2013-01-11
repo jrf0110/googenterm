@@ -5,7 +5,7 @@ npm install -g googenterm
 ```
 
 ```
-node app jquery ajax
+g jquery ajax
 
 [0] - jQuery.ajax() | jQuery API Documentation
 api.jquery.com/jQuery.ajax/
