@@ -1,0 +1,27 @@
+{
+  "name": "googenterm",
+  "version": "0.1.0",
+  "description": "Google search from your terminal",
+  "main": "index.js",
+  "bin": {
+    "googenterm": "g.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/googenterm.git"
+  },
+  "keywords": [
+    "Google",
+    "search",
+    "terminal"
+  ],
+	"dependencies": {
+		"colors": "0.6.x",
+		"jquery": "1.8.x"
+	},
+  "author": "John Fawcett",
+  "license": "BSD"
+}
