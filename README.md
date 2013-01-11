@@ -1,4 +1,4 @@
-# Googenterm - Google serach in your terminal
+# Googenterm - Google search in your terminal
 
 ```
 npm install -g googenterm
