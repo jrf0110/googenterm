@@ -4,7 +4,7 @@
   "description": "Google search from your terminal",
   "main": "index.js",
   "bin": {
-    "googenterm": "g.js"
+    "g": "bin/g.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
